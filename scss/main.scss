@@ -1,0 +1,12 @@
+$color--000: #000;
+$color--fff: #fff;
+
+body {
+    background-color: $color--000;
+
+    h1 {
+        display: flex;
+        font-size: 2rem;
+        color: $color--fff;
+    }
+}
